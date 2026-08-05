@@ -215,7 +215,7 @@ An AI-powered travel planning app. Search any destination and get a personalized
 
 📫 **Email:** [tarunsaimavuri26@gmail.com](mailto:tarunsaimavuri26@gmail.com) &nbsp;|&nbsp;
 🔗 **LinkedIn:** [mavuri-tarun-sai26](https://linkedin.com/in/mavuri-tarun-sai26) &nbsp;|&nbsp;
-💻 **GitHub:** [your-github](https://github.com/your-github)
+💻 **GitHub:** [tarunmavuri](https://github.com/tarunmavuri)
 
 <br>
 
