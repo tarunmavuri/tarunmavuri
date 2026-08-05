@@ -69,9 +69,17 @@ I'm a 3rd-year CS undergrad building toward an **AI/ML Engineer / Data Scientist
 **AI / ML**
 
 ![ML](https://img.shields.io/badge/-Machine%20Learning-0D1117?style=flat-square&logo=scikitlearn&logoColor=00D9C0)
+![DL](https://img.shields.io/badge/-Deep%20Learning-0D1117?style=flat-square&logo=tensorflow&logoColor=00D9C0)
+![PyTorch](https://img.shields.io/badge/-PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=00D9C0)
 ![GenAI](https://img.shields.io/badge/-Generative%20AI-0D1117?style=flat-square&logo=openai&logoColor=00D9C0)
 ![LLM](https://img.shields.io/badge/-LLM%20Integration-0D1117?style=flat-square&logo=openai&logoColor=00D9C0)
+![RAG](https://img.shields.io/badge/-RAG-0D1117?style=flat-square&logo=databricks&logoColor=00D9C0)
+![VectorDB](https://img.shields.io/badge/-Vector%20Databases-0D1117?style=flat-square&logo=pinecone&logoColor=00D9C0)
+![LangChain](https://img.shields.io/badge/-LangChain-0D1117?style=flat-square&logo=langchain&logoColor=00D9C0)
+![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-0D1117?style=flat-square&logo=huggingface&logoColor=00D9C0)
+![NLP](https://img.shields.io/badge/-NLP-0D1117?style=flat-square&logo=googlecloud&logoColor=00D9C0)
 ![Azure OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-0D1117?style=flat-square&logo=microsoftazure&logoColor=00D9C0)
+![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-0D1117?style=flat-square&logo=openai&logoColor=00D9C0)
 ![Prompt](https://img.shields.io/badge/-Prompt%20Engineering-0D1117?style=flat-square&logo=openai&logoColor=00D9C0)
 
 </td>
@@ -207,7 +215,7 @@ An AI-powered travel planning app. Search any destination and get a personalized
 
 📫 **Email:** [tarunsaimavuri26@gmail.com](mailto:tarunsaimavuri26@gmail.com) &nbsp;|&nbsp;
 🔗 **LinkedIn:** [mavuri-tarun-sai26](https://linkedin.com/in/mavuri-tarun-sai26) &nbsp;|&nbsp;
-💻 **GitHub:** [tarunmavuri](https://github.com/tarunmavuri)
+💻 **GitHub:** [your-github](https://github.com/your-github)
 
 <br>
 
