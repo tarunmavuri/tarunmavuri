@@ -10,7 +10,7 @@
 <a href="https://github.com/tarunmavuri"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9C0" /></a>
 <a href="mailto:tarunsaimavuri26@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9C0" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=tarunmavurilabel=Profile%20Views&color=5B3CC4&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=tarunmavuri&label=Profile%20Views&color=5B3CC4&style=flat-square" />
 <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20%26%20Data%20Science%20roles-5B3CC4?style=flat-square" />
 
 </div>
