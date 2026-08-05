@@ -6,10 +6,9 @@
 
 <br>
 
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00D9C0" /></a>
 <a href="https://linkedin.com/in/mavuri-tarun-sai26"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9C0" /></a>
-<a href="https://github.com/your-github"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9C0" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9C0" /></a>
+<a href="https://github.com/tarunmavuri"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9C0" /></a>
+<a href="mailto:tarunsaimavuri26@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9C0" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=your-github&label=Profile%20Views&color=5B3CC4&style=flat-square" />
 <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20%26%20Data%20Science%20roles-5B3CC4?style=flat-square" />
@@ -47,6 +46,20 @@ I'm a 3rd-year CS undergrad building toward an **AI/ML Engineer / Data Scientist
 </td>
 </tr>
 </table>
+
+<br>
+
+## 🤖 AI Tools I Work With
+
+<div align="center">
+
+![Antigravity IDE](https://img.shields.io/badge/-Antigravity%20IDE-0D1117?style=for-the-badge&logo=googlegemini&logoColor=00D9C0)
+![Google AI Studio](https://img.shields.io/badge/-Google%20AI%20Studio-0D1117?style=for-the-badge&logo=google&logoColor=00D9C0)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-0D1117?style=for-the-badge&logo=githubcopilot&logoColor=00D9C0)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-0D1117?style=for-the-badge&logo=openai&logoColor=00D9C0)
+![Claude](https://img.shields.io/badge/-Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=00D9C0)
+
+</div>
 
 <br>
 
@@ -216,7 +229,7 @@ An AI-powered travel planning app. Search any destination and get a personalized
 
 📫 **Email:** [tarunsaimavuri26@gmail.com](mailto:tarunsaimavuri26@gmail.com) &nbsp;|&nbsp;
 🔗 **LinkedIn:** [mavuri-tarun-sai26](https://linkedin.com/in/mavuri-tarun-sai26) &nbsp;|&nbsp;
-💻 **GitHub:** [tarunmavuri](https://github.com/tarunmavuri)
+💻 **GitHub:** [My_Github](https://github.com/tarunmavuri)
 
 <br>
 
