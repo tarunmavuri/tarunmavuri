@@ -197,16 +197,16 @@ An AI-powered travel planning app. Search any destination and get a personalized
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9C0&icon_color=5B3CC4&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9C0&text_color=c9d1d9" width="35%" />
+<img src="https://github-readme-stats.vercel.app/api?username=tarunmavuri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9C0&icon_color=5B3CC4&text_color=c9d1d9&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunmavuri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9C0&text_color=c9d1d9" width="35%" />
 
 <img src="https://streak-stats.demolab.com?user=your-github&theme=dark&hide_border=true&background=0D1117&ring=00D9C0&fire=5B3CC4&currStreakLabel=00D9C0" width="60%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github&theme=react-dark&bg_color=0D1117&color=00D9C0&line=5B3CC4&point=ffffff" width="85%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunmavuri&theme=react-dark&bg_color=0D1117&color=00D9C0&line=5B3CC4&point=ffffff" width="85%" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-github&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=tarunmavuri&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" width="90%" />
 
 </div>
 
@@ -215,8 +215,8 @@ An AI-powered travel planning app. Search any destination and get a personalized
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-github/your-github/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/your-github/your-github/output/github-contribution-grid-snake.svg" width="90%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tarunmavuri/tarunmavuri/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/tarunmavuri/tarunmavuri/output/github-contribution-grid-snake.svg" width="90%" />
 </picture>
 
 </div>
@@ -227,9 +227,9 @@ An AI-powered travel planning app. Search any destination and get a personalized
 
 <div align="center">
 
-📫 **Email:** [tarunsaimavuri26@gmail.com](mailto:tarunsaimavuri26@gmail.com) &nbsp;|&nbsp;
-🔗 **LinkedIn:** [mavuri-tarun-sai26](https://linkedin.com/in/mavuri-tarun-sai26) &nbsp;|&nbsp;
-💻 **GitHub:** [My_Github](https://github.com/tarunmavuri)
+📫 **Email:** [Connect](mailto:tarunsaimavuri26@gmail.com) &nbsp;|&nbsp;
+🔗 **LinkedIn:** [Connect](https://linkedin.com/in/mavuri-tarun-sai26) &nbsp;|&nbsp;
+💻 **GitHub:** [My Github](https://github.com/tarunmavuri)
 
 <br>
 
