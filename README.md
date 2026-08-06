@@ -200,7 +200,7 @@ An AI-powered travel planning app. Search any destination and get a personalized
 <img src="https://github-readme-stats.vercel.app/api?username=tarunmavuri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9C0&icon_color=5B3CC4&text_color=c9d1d9&count_private=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunmavuri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9C0&text_color=c9d1d9" width="35%" />
 
-<img src="https://streak-stats.demolab.com?user=your-github&theme=dark&hide_border=true&background=0D1117&ring=00D9C0&fire=5B3CC4&currStreakLabel=00D9C0" width="60%" />
+<img src="https://streak-stats.demolab.com?user=tarunmavuri&theme=dark&hide_border=true&background=0D1117&ring=00D9C0&fire=5B3CC4&currStreakLabel=00D9C0" width="60%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunmavuri&theme=react-dark&bg_color=0D1117&color=00D9C0&line=5B3CC4&point=ffffff" width="85%" />
 
