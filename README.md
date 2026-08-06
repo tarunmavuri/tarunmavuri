@@ -33,7 +33,14 @@ I'm currently part of the **Masai × IIT Patna AI/ML Certification Program**, al
 <td width="50%" valign="top">
 
 ### 🧠 JD-to-Resume Shapeshifter
-AI tool that tailors a resume to a specific job description. It parses an uploaded resume (PDF/DOCX) and a job description, scores the match, rewrites bullet points with JD-aligned keywords, flags missing skills through a gap analysis, and exports a polished PDF. Every AI rewrite ships with a confidence score and risk flag, and requires user approval before export — built with truthfulness guardrails rather than blind automation.
+AI tool that tailors a resume to a specific job description.
+
+- Parses an uploaded resume (PDF/DOCX) and a job description
+- Scores how well the two match
+- Rewrites bullet points using JD-aligned keywords
+- Flags missing skills through a gap analysis
+- Exports a polished, tailored PDF
+- Every AI rewrite ships with a confidence score and risk flag, requiring user approval before export — built with truthfulness guardrails rather than blind automation
 
 **Stack:** Next.js · TypeScript · FastAPI · LLM Integration
 **Live:** [resume-shapeshifter-mauve.vercel.app](https://resume-shapeshifter-mauve.vercel.app)
@@ -42,7 +49,14 @@ AI tool that tailors a resume to a specific job description. It parses an upload
 <td width="50%" valign="top">
 
 ### ✈️ WayVenture
-AI-powered travel planning web app. Delivers personalized destination guides (local language notes, daily cost estimates, round-trip travel expenses), a dynamic budget planner, curated restaurant/cafe recommendations, transportation advice, local phrase translations, and saved trip history.
+AI-powered travel planning web app.
+
+- Personalized destination guides (local language notes, daily cost estimates, round-trip travel expenses)
+- Dynamic budget planner
+- Curated restaurant and cafe recommendations
+- Transportation advice
+- Local phrase translations
+- Saved trip history
 
 **Stack:** Python · Google AI Studio · Google Cloud Run
 **Live:** [WayVenture on Cloud Run](https://wayventure-688534280433.us-west1.run.app)
