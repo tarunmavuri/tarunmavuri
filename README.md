@@ -6,7 +6,9 @@
 
 <br>
 
-<a href="https://linkedin.com/in/mavuri-tarun-sai26"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/mavuri-tarun-sai26">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9C0"/>
+</a>
 <a href="https://github.com/tarunmavuri"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9C0" /></a>
 <a href="mailto:tarunsaimavuri26@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9C0" /></a>
 
