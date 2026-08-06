@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:5B3CC4,100:00D9C0&height=220&section=header&text=Mavuri%20Tarun%20Sai&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20Engineer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Data%20Scientist%20in%20progress&descAlignY=52&descColor=c9d1d9&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9C0&background=0D1117&center=true&vCenter=true&width=700&lines=Building+AI+that+actually+ships;Next.js+%2B+LLMs+%2B;B.Tech+CSE+%C2%B7+Raghu+Engineering+College+%C2%B7+2028;Currently+deep+in+DSA+%2B+AI+Agents+%2B+ML+System+Design" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9C0&background=0D1117&center=true&vCenter=true&width=700&lines=Building+AI+that+actually+ships;Next.js+%2B+LLMs;B.Tech+CSE+%C2%B7+Raghu+Engineering+College+%C2%B7+2028;currently+deep+in+DSA+%2B+AI+Agents+%2B+ML+System+Design" alt="Typing SVG" />
 
 <br>
 
