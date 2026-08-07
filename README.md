@@ -177,6 +177,8 @@ Currently sharpening my edge through the **Masai × IIT Patna AI/ML Certificatio
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunmavuri&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9" />
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunmavuri&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
+<br>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tarunmavuri&theme=react-dark&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true" />
 </div>
 
 <br>
