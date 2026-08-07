@@ -14,6 +14,8 @@
 <a href="https://github.com/tarunmavuri"><img src="https://cdn.simpleicons.org/github/A855F7" width="34" height="34" alt="GitHub" /></a>&nbsp;&nbsp;
 <a href="mailto:tarunsaimavuri26@gmail.com"><img src="https://cdn.simpleicons.org/gmail/A855F7" width="34" height="34" alt="Email" /></a>
 
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=tarunmavuri&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" alt="profile views" />
 
 </div>
