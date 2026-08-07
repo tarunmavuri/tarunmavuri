@@ -8,11 +8,12 @@
 
 <br><br>
 <div align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://cdn.simpleicons.org/linkedin/A855F7" width="40" alt="LinkedIn">
+<a href="https://linkedin.com/in/mavuri-tarun-sai26">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg"
+       width="40"
+       height="40"
+       alt="LinkedIn">
 </a>
-&nbsp;&nbsp;
 <a href="https://github.com/tarunmavuri"><img src="https://cdn.simpleicons.org/github/A855F7" width="34" height="34" alt="GitHub" /></a>&nbsp;&nbsp;
 <a href="mailto:tarunsaimavuri26@gmail.com"><img src="https://cdn.simpleicons.org/gmail/A855F7" width="34" height="34" alt="Email" /></a>
 
