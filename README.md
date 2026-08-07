@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+the+making;LLM+Integration+%7C+Agentic+AI+%7C+GenAI;Turning+notebooks+into+deployed+products" alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+the+making;LLM+Integration+%7C+Agentic+AI+%7C+GenAI;Turning+notebooks+into+deployed+products" alt="tagline" />
 
 <br><br>
 
