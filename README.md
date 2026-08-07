@@ -7,10 +7,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+the+making;LLM+Integration+%7C+Agentic+AI+%7C+GenAI;Turning+notebooks+into+deployed+products" alt="tagline" />
 
 <br><br>
+<div align="center">
 
-<a href="https://linkedin.com/in/mavuri-tarun-sai26">
-  <img src="https://cdn.simpleicons.org/linkedin/A855F7" width="40" height="40" alt="LinkedIn">
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://cdn.simpleicons.org/linkedin/A855F7" width="40" alt="LinkedIn">
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/tarunmavuri"><img src="https://cdn.simpleicons.org/github/A855F7" width="34" height="34" alt="GitHub" /></a>&nbsp;&nbsp;
 <a href="mailto:tarunsaimavuri26@gmail.com"><img src="https://cdn.simpleicons.org/gmail/A855F7" width="34" height="34" alt="Email" /></a>
 
