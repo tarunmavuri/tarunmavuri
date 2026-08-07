@@ -8,9 +8,9 @@
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mavuri-tarun-sai26)
-[![GitHub](https://img.shields.io/badge/GitHub-3B1E5C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarunmavuri)
-[![Email](https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarunsaimavuri26@gmail.com)
+<a href="https://linkedin.com/in/mavuri-tarun-sai26"><img src="https://cdn.simpleicons.org/linkedin/A855F7" width="34" height="34" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://github.com/tarunmavuri"><img src="https://cdn.simpleicons.org/github/A855F7" width="34" height="34" alt="GitHub" /></a>&nbsp;&nbsp;
+<a href="mailto:tarunsaimavuri26@gmail.com"><img src="https://cdn.simpleicons.org/gmail/A855F7" width="34" height="34" alt="Email" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=tarunmavuri&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" alt="profile views" />
 
@@ -212,9 +212,9 @@ Currently sharpening my edge through the **Masai × IIT Patna AI/ML Certificatio
 
 **Open to AI Engineering and Machine Learning opportunities.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mavuri-tarun-sai26)
-[![GitHub](https://img.shields.io/badge/GitHub-3B1E5C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarunmavuri)
-[![Email](https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarunsaimavuri26@gmail.com)
+<a href="https://linkedin.com/in/mavuri-tarun-sai26"><img src="https://cdn.simpleicons.org/linkedin/A855F7" width="34" height="34" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://github.com/tarunmavuri"><img src="https://cdn.simpleicons.org/github/A855F7" width="34" height="34" alt="GitHub" /></a>&nbsp;&nbsp;
+<a href="mailto:tarunsaimavuri26@gmail.com"><img src="https://cdn.simpleicons.org/gmail/A855F7" width="34" height="34" alt="Email" /></a>
 
 <br>
 
