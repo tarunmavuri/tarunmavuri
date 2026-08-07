@@ -8,8 +8,8 @@
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mavuri-tarun-sai26)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarunmavuri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mavuri-tarun-sai26)
+[![GitHub](https://img.shields.io/badge/GitHub-3B1E5C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarunmavuri)
 [![Email](https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarunsaimavuri26@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=tarunmavuri&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" alt="profile views" />
@@ -212,8 +212,8 @@ Currently sharpening my edge through the **Masai × IIT Patna AI/ML Certificatio
 
 **Open to AI Engineering and Machine Learning opportunities.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mavuri-tarun-sai26)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarunmavuri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mavuri-tarun-sai26)
+[![GitHub](https://img.shields.io/badge/GitHub-3B1E5C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarunmavuri)
 [![Email](https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarunsaimavuri26@gmail.com)
 
 <br>
