@@ -12,7 +12,8 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg"
        width="40"
        height="40"
-       alt="LinkedIn">
+       alt="LinkedIn"
+       style="filter: invert(47%) sepia(93%) saturate(5000%) hue-rotate(250deg) brightness(100%);">>
 </a>
 <a href="https://github.com/tarunmavuri"><img src="https://cdn.simpleicons.org/github/A855F7" width="34" height="34" alt="GitHub" /></a>&nbsp;&nbsp;
 <a href="mailto:tarunsaimavuri26@gmail.com"><img src="https://cdn.simpleicons.org/gmail/A855F7" width="34" height="34" alt="Email" /></a>
