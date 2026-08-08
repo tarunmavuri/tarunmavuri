@@ -4,17 +4,11 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+the+making;LLM+Integration+%7C+Agentic+AI+%7C+GenAI;Turning+notebooks+into+deployed+products" alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+the+making;LLM+Integration+%7C+Agentic+AI+%7C+GenAI;Turning+notebooks+into+deployed+products" alt="tagline" />
 
 <br><br>
-<div align="center">
-<a href="https://linkedin.com/in/mavuri-tarun-sai26">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg"
-       width="40"
-       height="40"
-       alt="LinkedIn"
-       style="filter: invert(47%) sepia(93%) saturate(5000%) hue-rotate(250deg) brightness(100%);">>
-</a>
+
+<a href="https://linkedin.com/in/mavuri-tarun-sai26"><img src="https://cdn.simpleicons.org/linkedin/A855F7" width="34" height="34" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="https://github.com/tarunmavuri"><img src="https://cdn.simpleicons.org/github/A855F7" width="34" height="34" alt="GitHub" /></a>&nbsp;&nbsp;
 <a href="mailto:tarunsaimavuri26@gmail.com"><img src="https://cdn.simpleicons.org/gmail/A855F7" width="34" height="34" alt="Email" /></a>
 
@@ -28,19 +22,11 @@
 
 ## 🧭 About Me
 
-```yaml
-name: "Mavuri Tarun Sai"
-role: "3rd-year B.Tech CSE Student"
-college: "Raghu Engineering College, Visakhapatnam"
-graduation: "2028"
-focus: ["LLM Integration", "Agentic AI", "Generative AI", "MLOps"]
-goal: "AI/ML Engineer @ a top product-based company"
-philosophy: "Ship it — a model in a notebook isn't done until it's a working, deployed product."
-```
+I'm Mavuri Tarun Sai, a third-year B.Tech CSE student at Raghu Engineering College, Visakhapatnam, graduating in 2028 and working toward a career as an AI/ML Engineer or Data Scientist at a top product-based company. My focus areas are LLM integration, agentic AI, generative AI, and MLOps.
 
-I take projects through the **full lifecycle** — not just training a model, but shipping it as a live, working application. My recent work applies LLMs to real problems: resume tailoring and travel planning, both deployed and in production.
+I like taking projects through the full lifecycle — not just training a model in a notebook, but shipping it as a working, deployed application. My recent work applies LLMs to practical problems: resume tailoring and travel planning, both live and in production.
 
-Currently sharpening my edge through the **Masai × IIT Patna AI/ML Certification Program**, alongside certifications from Microsoft, Oracle, and Google.
+I'm currently sharpening my skills through the **Masai × IIT Patna AI/ML Certification Program**, alongside certifications in Microsoft Azure AI Fundamentals, Oracle OCI Generative AI Professional, and Google AI Essentials.
 
 <br>
 
@@ -99,10 +85,10 @@ Currently sharpening my edge through the **Masai × IIT Patna AI/ML Certificatio
 - 🛡️ Every AI rewrite ships with a **confidence score + risk flag**, requiring user approval before export — built with truthfulness guardrails, not blind automation
 
 <p align="center">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM-A855F7?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://cdn.simpleicons.org/nextdotjs/A855F7" width="28" height="28" alt="Next.js" />&nbsp;
+<img src="https://cdn.simpleicons.org/typescript/A855F7" width="28" height="28" alt="TypeScript" />&nbsp;
+<img src="https://cdn.simpleicons.org/fastapi/A855F7" width="28" height="28" alt="FastAPI" />&nbsp;
+<img src="https://cdn.simpleicons.org/openai/A855F7" width="28" height="28" alt="LLM" />
 </p>
 
 <p align="center">
@@ -123,9 +109,9 @@ Currently sharpening my edge through the **Masai × IIT Patna AI/ML Certificatio
 <br><br>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://cdn.simpleicons.org/python/A855F7" width="28" height="28" alt="Python" />&nbsp;
+<img src="https://cdn.simpleicons.org/google/A855F7" width="28" height="28" alt="Google AI Studio" />&nbsp;
+<img src="https://cdn.simpleicons.org/googlecloud/A855F7" width="28" height="28" alt="Cloud Run" />
 </p>
 
 <p align="center">
@@ -150,6 +136,7 @@ Currently sharpening my edge through the **Masai × IIT Patna AI/ML Certificatio
 ![LLM Integration](https://img.shields.io/badge/LLM_Integration-A855F7?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-A855F7?style=flat-square)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-A855F7?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-A855F7?style=flat-square)
 
 **Languages**
 <br>
@@ -170,9 +157,9 @@ Currently sharpening my edge through the **Masai × IIT Patna AI/ML Certificatio
 <br>
 <img src="https://cdn.simpleicons.org/nextdotjs/A855F7" width="34" height="34" alt="Next.js" />&nbsp;
 <img src="https://cdn.simpleicons.org/fastapi/A855F7" width="34" height="34" alt="FastAPI" />&nbsp;
-![REST APIs](https://img.shields.io/badge/REST_APIs-A855F7?style=flat-square)
 <img src="https://cdn.simpleicons.org/git/A855F7" width="34" height="34" alt="Git" />&nbsp;
 <img src="https://cdn.simpleicons.org/visualstudiocode/A855F7" width="34" height="34" alt="VS Code" />
+
 </div>
 
 <br>
@@ -186,6 +173,14 @@ Currently sharpening my edge through the **Masai × IIT Patna AI/ML Certificatio
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunmavuri&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
 <br>
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tarunmavuri&theme=react-dark&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true" />
+</div>
+
+<br>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=tarunmavuri&theme=dracula&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" />
 </div>
 
 <br>
@@ -225,6 +220,6 @@ Currently sharpening my edge through the **Masai × IIT Patna AI/ML Certificatio
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:3B1E5C,100:1A0B2E&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:3B1E5C,100:1A0B2E&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
