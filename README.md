@@ -8,9 +8,9 @@
 
 <br><br>
 
-<a href="https://linkedin.com/in/mavuri-tarun-sai26"><img src="https://cdn.simpleicons.org/linkedin/A855F7" width="34" height="34" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="https://github.com/tarunmavuri"><img src="https://cdn.simpleicons.org/github/A855F7" width="34" height="34" alt="GitHub" /></a>&nbsp;&nbsp;
-<a href="mailto:tarunsaimavuri26@gmail.com"><img src="https://cdn.simpleicons.org/gmail/A855F7" width="34" height="34" alt="Email" /></a>
+<a href="https://linkedin.com/in/mavuri-tarun-sai26"><img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/tarunmavuri"><img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:tarunsaimavuri26@gmail.com"><img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br><br>
 
@@ -22,11 +22,11 @@
 
 ## 🧭 About Me
 
-I'm Mavuri Tarun Sai, a third-year B.Tech CSE student at Raghu Engineering College, Visakhapatnam, graduating in 2028 and working toward a career as an AI/ML Engineer or Data Scientist at a top product-based company. My focus areas are LLM integration, agentic AI, generative AI, and MLOps.
+I'm Tarun, a third-year Computer Science student at Raghu Engineering College with a focus on building AI systems that hold up outside a notebook. My interest sits less in training models and more in the engineering discipline around them — deployment, reliability, and the judgment calls that decide whether an LLM's output is trustworthy enough to ship.
 
-I like taking projects through the full lifecycle — not just training a model in a notebook, but shipping it as a working, deployed application. My recent work applies LLMs to practical problems: resume tailoring and travel planning, both live and in production.
+I approach problems the way I'd want a production system approached: understand the failure modes first, build guardrails before automation, and treat "it works in the demo" as a starting point, not a finish line. That mindset shapes how I evaluate tools, structure my work, and think about the AI Engineering roles I'm working toward.
 
-I'm currently sharpening my skills through the **Masai × IIT Patna AI/ML Certification Program**, alongside certifications in Microsoft Azure AI Fundamentals, Oracle OCI Generative AI Professional, and Google AI Essentials.
+Outside pure technical work, I stay involved in the broader tech and entrepreneurship ecosystem — as an IEEE Student Member, an NSS volunteer, and a former Campus Ambassador for IIT Delhi's Entrepreneurship Development Cell. I'm currently deepening my technical foundation through the **Masai × IIT Patna AI/ML Certification Program**, backed by certifications in Microsoft Azure AI, Oracle OCI Generative AI, and Google AI Essentials, while working toward a role as an AI/ML Engineer at a product-based company.
 
 <br>
 
@@ -85,10 +85,10 @@ I'm currently sharpening my skills through the **Masai × IIT Patna AI/ML Certif
 - 🛡️ Every AI rewrite ships with a **confidence score + risk flag**, requiring user approval before export — built with truthfulness guardrails, not blind automation
 
 <p align="center">
-<img src="https://cdn.simpleicons.org/nextdotjs/A855F7" width="28" height="28" alt="Next.js" />&nbsp;
-<img src="https://cdn.simpleicons.org/typescript/A855F7" width="28" height="28" alt="TypeScript" />&nbsp;
-<img src="https://cdn.simpleicons.org/fastapi/A855F7" width="28" height="28" alt="FastAPI" />&nbsp;
-<img src="https://cdn.simpleicons.org/openai/A855F7" width="28" height="28" alt="LLM" />
+<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
 </p>
 
 <p align="center">
@@ -109,9 +109,9 @@ I'm currently sharpening my skills through the **Masai × IIT Patna AI/ML Certif
 <br><br>
 
 <p align="center">
-<img src="https://cdn.simpleicons.org/python/A855F7" width="28" height="28" alt="Python" />&nbsp;
-<img src="https://cdn.simpleicons.org/google/A855F7" width="28" height="28" alt="Google AI Studio" />&nbsp;
-<img src="https://cdn.simpleicons.org/googlecloud/A855F7" width="28" height="28" alt="Cloud Run" />
+<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio" />
+<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Run" />
 </p>
 
 <p align="center">
@@ -140,25 +140,25 @@ I'm currently sharpening my skills through the **Masai × IIT Patna AI/ML Certif
 
 **Languages**
 <br>
-<img src="https://cdn.simpleicons.org/python/A855F7" width="34" height="34" alt="Python" />&nbsp;
-<img src="https://cdn.simpleicons.org/openjdk/A855F7" width="34" height="34" alt="Java" />&nbsp;
-<img src="https://cdn.simpleicons.org/c/A855F7" width="34" height="34" alt="C" />&nbsp;
-<img src="https://cdn.simpleicons.org/typescript/A855F7" width="34" height="34" alt="TypeScript" />&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/A855F7" width="34" height="34" alt="SQL" />
+<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+![C](https://img.shields.io/badge/C-A855F7?style=for-the-badge)
+<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
 **Cloud & Platforms**
 <br>
-<img src="https://cdn.simpleicons.org/microsoftazure/A855F7" width="34" height="34" alt="Azure" />&nbsp;
-<img src="https://cdn.simpleicons.org/googlecloud/A855F7" width="34" height="34" alt="GCP" />&nbsp;
-<img src="https://cdn.simpleicons.org/oracle/A855F7" width="34" height="34" alt="Oracle" />&nbsp;
-<img src="https://cdn.simpleicons.org/google/A855F7" width="34" height="34" alt="Google AI Studio" />
+<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio" />
 
 **Web & Tools**
 <br>
-<img src="https://cdn.simpleicons.org/nextdotjs/A855F7" width="34" height="34" alt="Next.js" />&nbsp;
-<img src="https://cdn.simpleicons.org/fastapi/A855F7" width="34" height="34" alt="FastAPI" />&nbsp;
-<img src="https://cdn.simpleicons.org/git/A855F7" width="34" height="34" alt="Git" />&nbsp;
-<img src="https://cdn.simpleicons.org/visualstudiocode/A855F7" width="34" height="34" alt="VS Code" />
+<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 
 </div>
 
@@ -214,9 +214,9 @@ I'm currently sharpening my skills through the **Masai × IIT Patna AI/ML Certif
 
 **Open to AI Engineering and Machine Learning opportunities.**
 
-<a href="https://linkedin.com/in/mavuri-tarun-sai26"><img src="https://cdn.simpleicons.org/linkedin/A855F7" width="34" height="34" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="https://github.com/tarunmavuri"><img src="https://cdn.simpleicons.org/github/A855F7" width="34" height="34" alt="GitHub" /></a>&nbsp;&nbsp;
-<a href="mailto:tarunsaimavuri26@gmail.com"><img src="https://cdn.simpleicons.org/gmail/A855F7" width="34" height="34" alt="Email" /></a>
+<a href="https://linkedin.com/in/mavuri-tarun-sai26"><img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/tarunmavuri"><img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:tarunsaimavuri26@gmail.com"><img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br>
 
