@@ -153,27 +153,26 @@ Currently sharpening my edge through the **Masai × IIT Patna AI/ML Certificatio
 
 **Languages**
 <br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<img src="https://cdn.simpleicons.org/python/A855F7" width="34" height="34" alt="Python" />&nbsp;
+<img src="https://cdn.simpleicons.org/openjdk/A855F7" width="34" height="34" alt="Java" />&nbsp;
+<img src="https://cdn.simpleicons.org/c/A855F7" width="34" height="34" alt="C" />&nbsp;
+<img src="https://cdn.simpleicons.org/typescript/A855F7" width="34" height="34" alt="TypeScript" />&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql/A855F7" width="34" height="34" alt="SQL" />
 
 **Cloud & Platforms**
 <br>
-![Azure](https://img.shields.io/badge/Microsoft_Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+<img src="https://cdn.simpleicons.org/microsoftazure/A855F7" width="34" height="34" alt="Azure" />&nbsp;
+<img src="https://cdn.simpleicons.org/googlecloud/A855F7" width="34" height="34" alt="GCP" />&nbsp;
+<img src="https://cdn.simpleicons.org/oracle/A855F7" width="34" height="34" alt="Oracle" />&nbsp;
+<img src="https://cdn.simpleicons.org/google/A855F7" width="34" height="34" alt="Google AI Studio" />
 
 **Web & Tools**
 <br>
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+<img src="https://cdn.simpleicons.org/nextdotjs/A855F7" width="34" height="34" alt="Next.js" />&nbsp;
+<img src="https://cdn.simpleicons.org/fastapi/A855F7" width="34" height="34" alt="FastAPI" />&nbsp;
 ![REST APIs](https://img.shields.io/badge/REST_APIs-A855F7?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
+<img src="https://cdn.simpleicons.org/git/A855F7" width="34" height="34" alt="Git" />&nbsp;
+<img src="https://cdn.simpleicons.org/visualstudiocode/A855F7" width="34" height="34" alt="VS Code" />
 </div>
 
 <br>
