@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B2E,50:3B1E5C,100:A855F7&height=220&section=header&text=Mavuri%20Tarun%20Sai&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Building%20Production-Ready%20AI%20Applications&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0E7490,100:14B8A6&height=220&section=header&text=Mavuri%20Tarun%20Sai&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Building%20Production-Ready%20AI%20Applications&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+the+making;LLM+Integration+%7C+Agentic+AI+%7C+GenAI;Turning+notebooks+into+deployed+products" alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+the+making;LLM+Integration+%7C+Agentic+AI+%7C+GenAI;Turning+notebooks+into+deployed+products" alt="tagline" />
 
 <br><br>
 
-<a href="https://linkedin.com/in/mavuri-tarun-sai26"><img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
-<a href="https://github.com/tarunmavuri"><img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:tarunsaimavuri26@gmail.com"><img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/mavuri-tarun-sai26"><img src="https://img.shields.io/badge/LinkedIn-14B8A6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/tarunmavuri"><img src="https://img.shields.io/badge/GitHub-14B8A6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:tarunsaimavuri26@gmail.com"><img src="https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=tarunmavuri&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=tarunmavuri&style=for-the-badge&color=14b8a6&label=PROFILE+VIEWS" alt="profile views" />
 
 </div>
 
@@ -85,14 +85,14 @@ Outside pure technical work, I stay involved in the broader tech and entrepreneu
 - 🛡️ Every AI rewrite ships with a **confidence score + risk flag**, requiring user approval before export — built with truthfulness guardrails, not blind automation
 
 <p align="center">
-<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
+<img src="https://img.shields.io/badge/Next.js-14B8A6?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-14B8A6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/FastAPI-14B8A6?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/LLM-14B8A6?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
 </p>
 
 <p align="center">
-<a href="https://resume-shapeshifter-mauve.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-A855F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://resume-shapeshifter-mauve.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 </td>
@@ -109,13 +109,13 @@ Outside pure technical work, I stay involved in the broader tech and entrepreneu
 <br><br>
 
 <p align="center">
-<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio" />
-<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Run" />
+<img src="https://img.shields.io/badge/Python-14B8A6?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Google_AI_Studio-14B8A6?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio" />
+<img src="https://img.shields.io/badge/Cloud_Run-14B8A6?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Run" />
 </p>
 
 <p align="center">
-<a href="https://wayventure-688534280433.us-west1.run.app"><img src="https://img.shields.io/badge/Live_Demo-A855F7?style=for-the-badge&logo=googlecloud&logoColor=white" /></a>
+<a href="https://wayventure-688534280433.us-west1.run.app"><img src="https://img.shields.io/badge/Live_Demo-14B8A6?style=for-the-badge&logo=googlecloud&logoColor=white" /></a>
 </p>
 
 </td>
@@ -130,35 +130,35 @@ Outside pure technical work, I stay involved in the broader tech and entrepreneu
 
 **AI / Machine Learning**
 <br>
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-A855F7?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-A855F7?style=flat-square)
-![Generative AI](https://img.shields.io/badge/Generative_AI-A855F7?style=flat-square)
-![LLM Integration](https://img.shields.io/badge/LLM_Integration-A855F7?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-A855F7?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-A855F7?style=flat-square)
-![REST APIs](https://img.shields.io/badge/REST_APIs-A855F7?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-14B8A6?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-14B8A6?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative_AI-14B8A6?style=flat-square)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-14B8A6?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-14B8A6?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-14B8A6?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-14B8A6?style=flat-square)
 
 **Languages**
 <br>
-<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-![C](https://img.shields.io/badge/C-A855F7?style=for-the-badge)
-<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Python-14B8A6?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-14B8A6?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/C-14B8A6?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/TypeScript-14B8A6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/SQL-14B8A6?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
 **Cloud & Platforms**
 <br>
-<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
-<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio" />
+<img src="https://img.shields.io/badge/Azure-14B8A6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/GCP-14B8A6?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+<img src="https://img.shields.io/badge/Oracle-14B8A6?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+<img src="https://img.shields.io/badge/Google_AI_Studio-14B8A6?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio" />
 
 **Web & Tools**
 <br>
-<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Next.js-14B8A6?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/FastAPI-14B8A6?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Git-14B8A6?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/VS_Code-14B8A6?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 
 </div>
 
@@ -167,12 +167,12 @@ Outside pure technical work, I stay involved in the broader tech and entrepreneu
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tarunmavuri&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunmavuri&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tarunmavuri&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunmavuri&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=c9d1d9" />
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunmavuri&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunmavuri&theme=dark&hide_border=true&background=0D1117&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6" />
 <br>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tarunmavuri&theme=react-dark&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tarunmavuri&theme=react-dark&bg_color=0D1117&color=14B8A6&line=14B8A6&point=ffffff&area=true&hide_border=true" />
 </div>
 
 <br>
@@ -180,7 +180,7 @@ Outside pure technical work, I stay involved in the broader tech and entrepreneu
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tarunmavuri&theme=dracula&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=tarunmavuri&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" />
 </div>
 
 <br>
@@ -214,12 +214,12 @@ Outside pure technical work, I stay involved in the broader tech and entrepreneu
 
 **Open to AI Engineering and Machine Learning opportunities.**
 
-<a href="https://linkedin.com/in/mavuri-tarun-sai26"><img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
-<a href="https://github.com/tarunmavuri"><img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:tarunsaimavuri26@gmail.com"><img src="https://img.shields.io/badge/%20-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/mavuri-tarun-sai26"><img src="https://img.shields.io/badge/LinkedIn-14B8A6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/tarunmavuri"><img src="https://img.shields.io/badge/GitHub-14B8A6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:tarunsaimavuri26@gmail.com"><img src="https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:3B1E5C,100:1A0B2E&height=150&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:0E7490,100:0F172A&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
