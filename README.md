@@ -1,122 +1,86 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,13,14,15&height=220&section=header&text=Mavuri%20Tarun%20Sai&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Building%20Production-Ready%20AI%20Applications&descAlignY=58&descSize=16&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,100:10B981&height=200&section=header&text=Mavuri%20Tarun%20Sai&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=AI%2FML%20Engineer%20%E2%80%94%20Building%20Production-Ready%20AI%20Systems&descAlignY=62&descSize=15&animation=fadeIn" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Agentic+AI+%7C+LLM+Integration+%7C+GenAI;3rd-Year+CSE+%40+Raghu+Engineering+College;From+notebooks+to+deployed+products" alt="tagline" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+the+making;LLM+Integration+%7C+Agentic+AI+%7C+GenAI;Turning+notebooks+into+deployed+products" alt="tagline" />
+<a href="https://linkedin.com/in/mavuri-tarun-sai26"><img src="https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/tarunmavuri"><img src="https://img.shields.io/badge/GitHub-10B981?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:tarunsaimavuri26@gmail.com"><img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br><br>
-
-<a href="https://linkedin.com/in/mavuri-tarun-sai26"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/tarunmavuri"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:tarunsaimavuri26@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=tarunmavuri&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=tarunmavuri&style=for-the-badge&color=10B981&label=PROFILE+VIEWS" />
 
 </div>
 
 <br>
 
-## 🧭 About Me
+### 🧭 About Me
 
-I'm Tarun, a third-year Computer Science student at Raghu Engineering College with a focus on building AI systems that hold up outside a notebook. My interest sits less in training models and more in the engineering discipline around them — deployment, reliability, and the judgment calls that decide whether an LLM's output is trustworthy enough to ship.
+I'm Tarun — a third-year CSE student at Raghu Engineering College focused on the engineering discipline around AI, not just model training. My interest is in what it takes to make an LLM's output *trustworthy enough to ship*: guardrails before automation, failure modes understood before deployment, "works in the demo" treated as a starting point rather than a finish line.
 
-I approach problems the way I'd want a production system approached: understand the failure modes first, build guardrails before automation, and treat "it works in the demo" as a starting point, not a finish line. That mindset shapes how I evaluate tools, structure my work, and think about the AI Engineering roles I'm working toward.
-
-Outside pure technical work, I stay involved in the broader tech and entrepreneurship ecosystem — as an IEEE Student Member, an NSS volunteer, and a former Campus Ambassador for IIT Delhi's Entrepreneurship Development Cell. I'm currently deepening my technical foundation through the **Masai × IIT Patna AI/ML Certification Program**, backed by certifications in Microsoft Azure AI, Oracle OCI Generative AI, and Google AI Essentials, while working toward a role as an AI/ML Engineer at a product-based company.
+I'm deepening that foundation through the **Masai × IIT Patna AI/ML Certification Program**, backed by certifications in Microsoft Azure AI Fundamentals, Oracle OCI Generative AI Professional, and Google AI Essentials — while working toward an AI/ML Engineer role at a product-based company. Outside pure build work, I stay involved as an **IEEE Student Member**, an **NSS Volunteer**, and a former **Campus Ambassador for IIT Delhi's eDC**.
 
 <br>
 
-## 🔭 What I'm Focused On
+### 🔭 Currently
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🚀 Building**
-- Agentic AI systems and LLM-powered tools
-- End-to-end products — frontend to deployment
-
-</td>
-<td width="50%" valign="top">
-
-**🌱 Learning**
-- ML system design & MLOps pipelines
-- Advanced prompt engineering & GenAI patterns
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**👯 Open to**
-- AI Engineering & Machine Learning opportunities
-- Collaborating on LLM / GenAI-powered applications
-
-</td>
-<td width="50%" valign="top">
-
-**💬 Ask me about**
-- LLM integration, prompt engineering, agentic AI
-- Deploying AI apps on GCP / Azure / Vercel
-
-</td>
-</tr>
-</table>
+```yaml
+building:    Agentic AI systems & end-to-end LLM-powered products
+learning:    ML system design, MLOps pipelines, advanced prompting
+open_to:     AI Engineering & Machine Learning opportunities
+ask_me:      LLM integration · prompt engineering · deploying AI apps on GCP / Azure
+```
 
 <br>
 
-## 💼 Featured Work
+### 💼 Featured Work
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-<h3 align="center">📄 JD-to-Resume Shapeshifter</h3>
-<p align="center"><i>AI tool that tailors a resume to a specific job description</i></p>
+<td width="33%" valign="top">
 
-- 📤 Parses an uploaded resume (PDF/DOCX) and a job description
-- 🎯 Scores how well the two match
-- ✍️ Rewrites bullet points using JD-aligned keywords
-- 🔍 Flags missing skills through gap analysis
-- 📑 Exports a polished, tailored PDF
-- 🛡️ Every AI rewrite ships with a **confidence score + risk flag**, requiring user approval before export — built with truthfulness guardrails, not blind automation
+**📄 JD-to-Resume Shapeshifter**
+<br><sub>Tailors a resume to a specific job description</sub>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
-</p>
+- Parses resume (PDF/DOCX) + JD, scores the match
+- Rewrites bullets with JD-aligned keywords
+- Flags missing skills via gap analysis
+- Every AI rewrite ships with a confidence score + risk flag, requiring approval before export
 
-<p align="center">
-<a href="https://resume-shapeshifter-mauve.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+`Next.js` `TypeScript` `FastAPI` `LLM`
+
+[Live Demo →](https://resume-shapeshifter-mauve.vercel.app)
 
 </td>
-<td width="50%" valign="top">
-<h3 align="center">🌍 WayVenture</h3>
-<p align="center"><i>AI-powered travel planning web app</i></p>
+<td width="33%" valign="top">
 
-- 🗺️ Personalized destination guides — local language notes, daily costs, round-trip travel expenses
-- 💰 Dynamic budget planner
-- 🍽️ Curated restaurant & cafe recommendations
-- 🚕 Transportation advice & local phrase translations
-- 📚 Saved trip history
+**🌍 WayVenture**
+<br><sub>AI-powered travel planning web app</sub>
 
-<br><br>
+- Personalized destination guides — local language, daily costs, round-trip expenses
+- Dynamic budget planner
+- Curated restaurant/cafe picks, transport advice, phrase translations
+- Saved trip history
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio" />
-<img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Run" />
-</p>
+`Python` `Google AI Studio` `Cloud Run`
 
-<p align="center">
-<a href="https://wayventure-688534280433.us-west1.run.app"><img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></a>
-</p>
+[Live Demo →](https://wayventure-688534280433.us-west1.run.app)
+
+</td>
+<td width="33%" valign="top">
+
+**🛰️ Zepto Data & AI Platform**
+<br><sub>Multi-module pipeline for scraping, analytics & RAG</sub>
+
+- Book-scraping pipeline → CSV / SQLite / JSON
+- Titanic EDA + classification (SMOTE) + fare regression
+- RAG module with ingest script + Chroma vector DB
+
+`Python` `scikit-learn` `ChromaDB` `pandas`
+
+[Repo →](https://github.com/tarunmavuri/Zepto-Data-AI-Platform)
 
 </td>
 </tr>
@@ -124,78 +88,68 @@ Outside pure technical work, I stay involved in the broader tech and entrepreneu
 
 <br>
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
-**AI / Machine Learning**
+**AI / ML**
 <br>
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-38BDF8?style=flat-square&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-38BDF8?style=flat-square&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-38BDF8?style=flat-square&logoColor=white)
-![LLM Integration](https://img.shields.io/badge/LLM_Integration-38BDF8?style=flat-square&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-38BDF8?style=flat-square&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-38BDF8?style=flat-square&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-38BDF8?style=flat-square&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-10B981?style=flat-square&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-10B981?style=flat-square&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-10B981?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10B981?style=flat-square&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-10B981?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-10B981?style=flat-square&logoColor=white)
 
 **Languages**
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Python-064E3B?style=for-the-badge&logo=python&logoColor=10B981" />
+<img src="https://img.shields.io/badge/TypeScript-064E3B?style=for-the-badge&logo=typescript&logoColor=10B981" />
+<img src="https://img.shields.io/badge/Java-064E3B?style=for-the-badge&logo=openjdk&logoColor=10B981" />
+<img src="https://img.shields.io/badge/C-064E3B?style=for-the-badge&logo=c&logoColor=10B981" />
+<img src="https://img.shields.io/badge/SQL-064E3B?style=for-the-badge&logo=postgresql&logoColor=10B981" />
 
 **Cloud & Platforms**
 <br>
-<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio" />
+<img src="https://img.shields.io/badge/Azure-064E3B?style=for-the-badge&logo=microsoftazure&logoColor=10B981" />
+<img src="https://img.shields.io/badge/GCP-064E3B?style=for-the-badge&logo=googlecloud&logoColor=10B981" />
+<img src="https://img.shields.io/badge/Oracle_OCI-064E3B?style=for-the-badge&logo=oracle&logoColor=10B981" />
+<img src="https://img.shields.io/badge/Google_AI_Studio-064E3B?style=for-the-badge&logo=google&logoColor=10B981" />
 
-**Web & Tools**
+**Tools**
 <br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Next.js-064E3B?style=for-the-badge&logo=nextdotjs&logoColor=10B981" />
+<img src="https://img.shields.io/badge/FastAPI-064E3B?style=for-the-badge&logo=fastapi&logoColor=10B981" />
+<img src="https://img.shields.io/badge/Git-064E3B?style=for-the-badge&logo=git&logoColor=10B981" />
+<img src="https://img.shields.io/badge/VS_Code-064E3B?style=for-the-badge&logo=visualstudiocode&logoColor=10B981" />
 
 </div>
 
 <br>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tarunmavuri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunmavuri&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tarunmavuri&show_icons=true&theme=graywhite&hide_border=true&bg_color=00000000&title_color=059669&icon_color=10B981&text_color=1f2937" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunmavuri&layout=compact&theme=graywhite&hide_border=true&bg_color=00000000&title_color=059669&text_color=1f2937" />
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunmavuri&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunmavuri&theme=graywhite&hide_border=true&background=00000000&ring=10B981&fire=10B981&currStreakLabel=059669" />
 <br>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tarunmavuri&theme=tokyo-night&bg_color=00000000&color=38BDF8&line=38BDF8&point=ffffff&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tarunmavuri&theme=minimal&bg_color=00000000&color=059669&line=10B981&point=064E3B&area=true&hide_border=true" />
 </div>
 
 <br>
 
-## 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/tarunmavuri/tarunmavuri/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%" />
-
-<sub>Renders once the <code>snake.yml</code> GitHub Action below runs on your profile repo</sub>
+<sub>Renders once the <code>snake.yml</code> GitHub Action runs on your profile repo</sub>
 </div>
 
 <br>
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tarunmavuri&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" />
-</div>
-
-<br>
-
-## 🏅 Certifications
+### 🏅 Certifications
 
 <div align="center">
 
@@ -210,26 +164,24 @@ Outside pure technical work, I stay involved in the broader tech and entrepreneu
 
 <br>
 
-## 🤝 Leadership & Involvement
+### 🤝 Leadership & Involvement
 
 - 🎓 **IEEE (Computer Society) Student Member** — since March 2026
 - 🤲 **National Service Scheme (NSS) Volunteer** — since December 2025
-- 🚀 **Campus Ambassador, eDC (Entrepreneurship Development Cell), IIT Delhi** — Dec 2025 to Jan 2026
+- 🚀 **Campus Ambassador, eDC, IIT Delhi** — Dec 2025 – Jan 2026
 
 <br>
 
 <div align="center">
 
-## 📫 Let's Connect
+### 📫 Let's Connect
 
 **Open to AI Engineering and Machine Learning opportunities.**
 
-<a href="https://linkedin.com/in/mavuri-tarun-sai26"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/tarunmavuri"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:tarunsaimavuri26@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/mavuri-tarun-sai26"><img src="https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/tarunmavuri"><img src="https://img.shields.io/badge/GitHub-10B981?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:tarunsaimavuri26@gmail.com"><img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,13,14,15&height=150&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:064E3B&height=120&section=footer&width=100%" />
 
 </div>
