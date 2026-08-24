@@ -140,15 +140,6 @@ ask_me:      LLM integration · prompt engineering · deploying AI apps on GCP /
 
 <br>
 
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/tarunmavuri/tarunmavuri/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%" />
-<sub>Renders once the <code>snake.yml</code> GitHub Action runs on your profile repo</sub>
-</div>
-
-<br>
-
 ### 🏅 Certifications
 
 <div align="center">
