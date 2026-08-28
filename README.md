@@ -132,22 +132,23 @@ ask_me:      LLM integration · prompt engineering · deploying AI apps on GCP /
 <div align="center">
 
 <img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=tarunmavuri&show_icons=true&hide_border=true&bg_color=00000000&title_color=059669&icon_color=10B981&text_color=1f2937&cache_seconds=1800"
+  height="180"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarunmavuri&theme=github_dark"
 />
 
 <img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunmavuri&layout=compact&hide_border=true&bg_color=00000000&title_color=059669&text_color=1f2937&cache_seconds=1800"
+  height="180"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarunmavuri&theme=github_dark&exclude=HTML,CSS"
 />
 
 <br><br>
 
 <img
-  src="https://streak-stats.demolab.com/?user=tarunmavuri&theme=graywhite&hide_border=true&background=00000000&ring=10B981&fire=10B981&currStreakLabel=059669"
+  src="https://streak-stats.demolab.com/?user=tarunmavuri&theme=github-dark&hide_border=true&background=00000000&ring=10B981&fire=10B981&currStreakLabel=10B981"
 />
 
 </div>
+
 
 ### 🏅 Certifications
 
