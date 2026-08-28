@@ -127,29 +127,28 @@ ask_me:      LLM integration · prompt engineering · deploying AI apps on GCP /
 
 <br>
 
-
 ### 📊 GitHub Stats
 
 <div align="center">
 
 <img
-  height="180"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarunmavuri&theme=github_dark"
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarunmavuri&theme=github_dark&bg_color=0D1117&border_color=064E3B&title_color=10B981&text_color=9CA3AF&icon_color=10B981&chart_color=10B981"
 />
 
 <img
-  height="180"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarunmavuri&theme=github_dark&exclude=HTML,CSS"
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarunmavuri&theme=github_dark&bg_color=0D1117&border_color=064E3B&title_color=10B981&text_color=9CA3AF&icon_color=10B981&chart_color=10B981&exclude=HTML,CSS"
 />
 
 <br><br>
 
 <img
-  src="https://streak-stats.demolab.com/?user=tarunmavuri&theme=github-dark&hide_border=true&background=00000000&ring=10B981&fire=10B981&currStreakLabel=10B981"
+  width="70%"
+  src="https://streak-stats.demolab.com/?user=tarunmavuri&theme=dark&background=0D1117&border=064E3B&stroke=064E3B&ring=10B981&fire=10B981&currStreakNum=10B981&sideNums=10B981&currStreakLabel=10B981&sideLabels=9CA3AF&dates=6B7280&hide_border=false"
 />
 
 </div>
-
 
 ### 🏅 Certifications
 
