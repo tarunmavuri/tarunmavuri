@@ -39,29 +39,50 @@ ask_me:      LLM integration · prompt engineering · deploying AI apps on GCP /
 
 <table width="100%">
 <tr>
+
+<td width="33%" valign="top">
+
+**🛰️ Zepto Data & AI Platform**
+<br><sub>Multi-module pipeline for scraping, analytics & RAG</sub>
+
+- Book-scraping pipeline → CSV / SQLite / JSON
+- Titanic EDA + classification with SMOTE + fare regression
+- RAG module with ingestion pipeline + ChromaDB
+- Modular data-to-AI workflow combining analytics and retrieval
+
+`Python` `scikit-learn` `ChromaDB` `pandas`
+
+[Repo →](https://github.com/tarunmavuri/Zepto-Data-AI-Platform)
+
+</td>
+
 <td width="33%" valign="top">
 
 **📄 JD-to-Resume Shapeshifter**
-<br><sub>Tailors a resume to a specific job description</sub>
+<br><sub>AI-powered resume tailoring for specific job descriptions</sub>
 
-- Parses resume (PDF/DOCX) + JD, scores the match
+- Parses resume (PDF/DOCX) + job description
+- Scores resume–JD alignment
 - Rewrites bullets with JD-aligned keywords
-- Flags missing skills via gap analysis
-- Every AI rewrite ships with a confidence score + risk flag, requiring approval before export
+- Identifies missing skills through gap analysis
+- Confidence scores + risk flags before AI-generated changes are exported
 
 `Next.js` `TypeScript` `FastAPI` `LLM`
 
 [Live Demo →](https://resume-shapeshifter-mauve.vercel.app)
 
 </td>
+
 <td width="33%" valign="top">
 
 **🌍 WayVenture**
 <br><sub>AI-powered travel planning web app</sub>
 
-- Personalized destination guides — local language, daily costs, round-trip expenses
-- Dynamic budget planner
-- Curated restaurant/cafe picks, transport advice, phrase translations
+- Personalized destination guides with local language and costs
+- Dynamic trip budget planner
+- Round-trip expense estimation
+- Curated restaurants and cafés
+- Transport advice and useful phrase translations
 - Saved trip history
 
 `Python` `Google AI Studio` `Cloud Run`
@@ -69,20 +90,7 @@ ask_me:      LLM integration · prompt engineering · deploying AI apps on GCP /
 [Live Demo →](https://wayventure-688534280433.us-west1.run.app)
 
 </td>
-<td width="33%" valign="top">
 
-**🛰️ Zepto Data & AI Platform**
-<br><sub>Multi-module pipeline for scraping, analytics & RAG</sub>
-
-- Book-scraping pipeline → CSV / SQLite / JSON
-- Titanic EDA + classification (SMOTE) + fare regression
-- RAG module with ingest script + Chroma vector DB
-
-`Python` `scikit-learn` `ChromaDB` `pandas`
-
-[Repo →](https://github.com/tarunmavuri/Zepto-Data-AI-Platform)
-
-</td>
 </tr>
 </table>
 
