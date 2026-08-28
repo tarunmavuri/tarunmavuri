@@ -130,15 +130,24 @@ ask_me:      LLM integration · prompt engineering · deploying AI apps on GCP /
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tarunmavuri&show_icons=true&theme=graywhite&hide_border=true&bg_color=00000000&title_color=059669&icon_color=10B981&text_color=1f2937" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunmavuri&layout=compact&theme=graywhite&hide_border=true&bg_color=00000000&title_color=059669&text_color=1f2937" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunmavuri&theme=graywhite&hide_border=true&background=00000000&ring=10B981&fire=10B981&currStreakLabel=059669" />
-<br>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tarunmavuri&theme=minimal&bg_color=00000000&color=059669&line=10B981&point=064E3B&area=true&hide_border=true" />
-</div>
 
-<br>
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=tarunmavuri&show_icons=true&hide_border=true&bg_color=00000000&title_color=059669&icon_color=10B981&text_color=1f2937&cache_seconds=1800"
+/>
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunmavuri&layout=compact&hide_border=true&bg_color=00000000&title_color=059669&text_color=1f2937&cache_seconds=1800"
+/>
+
+<br><br>
+
+<img
+  src="https://streak-stats.demolab.com/?user=tarunmavuri&theme=graywhite&hide_border=true&background=00000000&ring=10B981&fire=10B981&currStreakLabel=059669"
+/>
+
+</div>
 
 ### 🏅 Certifications
 
