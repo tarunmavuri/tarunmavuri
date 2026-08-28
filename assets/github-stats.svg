@@ -171,7 +171,7 @@
         font-weight="700"
         fill="#F3F4F6"
         text-anchor="start">
-        96
+        98
     </text>
     
     <rect
@@ -454,7 +454,7 @@
         font-weight="700"
         fill="#F3F4F6"
         text-anchor="middle">
-        104
+        106
     </text>
     
     <text
@@ -3996,7 +3996,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.7"/>
+        opacity="1"/>
     
     <text
         x="550.0"
