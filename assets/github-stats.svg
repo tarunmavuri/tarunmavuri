@@ -362,7 +362,7 @@
     stroke-width="13"
     stroke-linecap="round"
     stroke-dasharray="439.82297149"
-    stroke-dashoffset="376.99111842"
+    stroke-dashoffset="439.82297149"
     transform="rotate(-90 180 420)"
     filter="url(#glow)"/>
 
@@ -374,7 +374,7 @@
         font-weight="700"
         fill="#F3F4F6"
         text-anchor="middle">
-        1
+        0
     </text>
     
     <text
@@ -396,7 +396,7 @@
         font-weight="700"
         fill="#F3F4F6"
         text-anchor="middle">
-        1
+        0
     </text>
     
     <text
@@ -1161,19 +1161,19 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.08"/>
-    
-    <rect
-        x="163"
-        y="685"
-        width="11"
-        height="11"
-        rx="2"
-        fill="#10B981"
         opacity="0.45"/>
     
     <rect
         x="163"
+        y="685"
+        width="11"
+        height="11"
+        rx="2"
+        fill="#10B981"
+        opacity="0.08"/>
+    
+    <rect
+        x="163"
         y="699"
         width="11"
         height="11"
@@ -2066,15 +2066,6 @@
     <rect
         x="359"
         y="713"
-        width="11"
-        height="11"
-        rx="2"
-        fill="#10B981"
-        opacity="0.08"/>
-    
-    <rect
-        x="359"
-        y="727"
         width="11"
         height="11"
         rx="2"
@@ -2083,6 +2074,15 @@
     
     <rect
         x="359"
+        y="727"
+        width="11"
+        height="11"
+        rx="2"
+        fill="#10B981"
+        opacity="0.08"/>
+    
+    <rect
+        x="359"
         y="741"
         width="11"
         height="11"
@@ -2660,15 +2660,6 @@
     <rect
         x="485"
         y="755"
-        width="11"
-        height="11"
-        rx="2"
-        fill="#10B981"
-        opacity="0.08"/>
-    
-    <rect
-        x="485"
-        y="769"
         width="11"
         height="11"
         rx="2"
@@ -2676,8 +2667,8 @@
         opacity="0.25"/>
     
     <rect
-        x="499"
-        y="685"
+        x="485"
+        y="769"
         width="11"
         height="11"
         rx="2"
@@ -2686,6 +2677,15 @@
     
     <rect
         x="499"
+        y="685"
+        width="11"
+        height="11"
+        rx="2"
+        fill="#10B981"
+        opacity="0.08"/>
+    
+    <rect
+        x="499"
         y="699"
         width="11"
         height="11"
@@ -3587,15 +3587,6 @@
     <rect
         x="695"
         y="727"
-        width="11"
-        height="11"
-        rx="2"
-        fill="#10B981"
-        opacity="0.08"/>
-    
-    <rect
-        x="695"
-        y="741"
         width="11"
         height="11"
         rx="2"
@@ -3604,6 +3595,15 @@
     
     <rect
         x="695"
+        y="741"
+        width="11"
+        height="11"
+        rx="2"
+        fill="#10B981"
+        opacity="0.08"/>
+    
+    <rect
+        x="695"
         y="755"
         width="11"
         height="11"
@@ -3690,7 +3690,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.08"/>
+        opacity="0.25"/>
     
     <rect
         x="723"
@@ -3708,7 +3708,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.25"/>
+        opacity="0.45"/>
     
     <rect
         x="723"
@@ -3717,7 +3717,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.45"/>
+        opacity="0.25"/>
     
     <rect
         x="723"
@@ -3726,7 +3726,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.25"/>
+        opacity="0.08"/>
     
     <rect
         x="723"
@@ -3735,7 +3735,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.08"/>
+        opacity="0.25"/>
     
     <rect
         x="723"
@@ -3753,7 +3753,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.25"/>
+        opacity="0.08"/>
     
     <rect
         x="737"
@@ -3762,7 +3762,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.08"/>
+        opacity="0.45"/>
     
     <rect
         x="737"
@@ -3771,7 +3771,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.45"/>
+        opacity="0.25"/>
     
     <rect
         x="737"
@@ -3780,7 +3780,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.25"/>
+        opacity="1"/>
     
     <rect
         x="737"
@@ -3807,7 +3807,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="1"/>
+        opacity="0.45"/>
     
     <rect
         x="751"
@@ -3825,7 +3825,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.45"/>
+        opacity="0.08"/>
     
     <rect
         x="751"
@@ -3834,7 +3834,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.08"/>
+        opacity="0.25"/>
     
     <rect
         x="751"
@@ -3843,7 +3843,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.25"/>
+        opacity="0.08"/>
     
     <rect
         x="751"
@@ -3861,7 +3861,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.08"/>
+        opacity="0.25"/>
     
     <rect
         x="751"
@@ -3879,7 +3879,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.25"/>
+        opacity="0.08"/>
     
     <rect
         x="765"
@@ -3906,7 +3906,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.08"/>
+        opacity="0.25"/>
     
     <rect
         x="765"
@@ -3915,7 +3915,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.25"/>
+        opacity="0.08"/>
     
     <rect
         x="765"
@@ -3951,7 +3951,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.08"/>
+        opacity="0.25"/>
     
     <rect
         x="779"
@@ -3960,7 +3960,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.25"/>
+        opacity="0.08"/>
     
     <rect
         x="779"
@@ -3983,20 +3983,20 @@
     <rect
         x="779"
         y="755"
-        width="11"
-        height="11"
-        rx="2"
-        fill="#10B981"
-        opacity="0.08"/>
-    
-    <rect
-        x="779"
-        y="769"
         width="11"
         height="11"
         rx="2"
         fill="#10B981"
         opacity="1"/>
+    
+    <rect
+        x="779"
+        y="769"
+        width="11"
+        height="11"
+        rx="2"
+        fill="#10B981"
+        opacity="0.08"/>
     
     <text
         x="550.0"
