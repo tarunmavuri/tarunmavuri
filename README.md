@@ -166,7 +166,7 @@ ask_me:      LLM integration · prompt engineering · deploying AI apps on GCP /
 
 ### 🤝 Leadership & Involvement
 
-- 🎓 **IEEE (Computer Society) Student Member** — since March 2026
+- 🎓 **IEEE (Computer Society) Secretary** — since July 2026
 - 🤲 **National Service Scheme (NSS) Volunteer** — since December 2025
 - 🚀 **Campus Ambassador, eDC, IIT Delhi** — Dec 2025 – Jan 2026
 
