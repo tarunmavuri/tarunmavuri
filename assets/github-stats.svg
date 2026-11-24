@@ -171,7 +171,7 @@
         font-weight="700"
         fill="#F3F4F6"
         text-anchor="start">
-        105
+        109
     </text>
     
     <rect
@@ -321,7 +321,7 @@
         font-weight="700"
         fill="#F3F4F6"
         text-anchor="start">
-        9
+        10
     </text>
     
     <rect
@@ -362,7 +362,7 @@
     stroke-width="13"
     stroke-linecap="round"
     stroke-dasharray="439.82297149"
-    stroke-dashoffset="439.82297149"
+    stroke-dashoffset="314.15926535"
     transform="rotate(-90 180 420)"
     filter="url(#glow)"/>
 
@@ -374,7 +374,7 @@
         font-weight="700"
         fill="#F3F4F6"
         text-anchor="middle">
-        0
+        2
     </text>
     
     <text
@@ -396,7 +396,7 @@
         font-weight="700"
         fill="#F3F4F6"
         text-anchor="middle">
-        0
+        2
     </text>
     
     <text
@@ -454,7 +454,7 @@
         font-weight="700"
         fill="#F3F4F6"
         text-anchor="middle">
-        112
+        117
     </text>
     
     <text
@@ -496,7 +496,7 @@
         fill="none"
         stroke="#10B981"
         stroke-width="24"
-        stroke-dasharray="275.8995569854965 195.33934103950355"
+        stroke-dasharray="270.4387982778389 200.80009974716114"
         stroke-dashoffset="0"
         transform="rotate(-90 715 430)"/>
     
@@ -507,8 +507,8 @@
         fill="none"
         stroke="#14B8A6"
         stroke-width="24"
-        stroke-dasharray="100.47558351542334 370.7633145095767"
-        stroke-dashoffset="-275.8995569854965"
+        stroke-dasharray="125.63471053660163 345.6041874883984"
+        stroke-dashoffset="-270.4387982778389"
         transform="rotate(-90 715 430)"/>
     
     <circle
@@ -518,8 +518,8 @@
         fill="none"
         stroke="#3B82F6"
         stroke-width="24"
-        stroke-dasharray="49.814664345512675 421.4242336794874"
-        stroke-dashoffset="-376.3751405009198"
+        stroke-dasharray="39.20862251122281 432.0302755137772"
+        stroke-dashoffset="-396.0735088144405"
         transform="rotate(-90 715 430)"/>
     
     <circle
@@ -529,8 +529,8 @@
         fill="none"
         stroke="#A855F7"
         stroke-width="24"
-        stroke-dasharray="29.926609085089584 441.31228893991045"
-        stroke-dashoffset="-426.1898048464325"
+        stroke-dasharray="23.8162165985343 447.4226814264657"
+        stroke-dashoffset="-435.28213132566333"
         transform="rotate(-90 715 430)"/>
     
     <circle
@@ -540,8 +540,8 @@
         fill="none"
         stroke="#F59E0B"
         stroke-width="24"
-        stroke-dasharray="14.094004957421907 457.1448930675781"
-        stroke-dashoffset="-456.11641393152206"
+        stroke-dasharray="11.33856765026561 459.90033037473444"
+        stroke-dashoffset="-459.09834792419764"
         transform="rotate(-90 715 430)"/>
     
 <circle
@@ -575,7 +575,7 @@
         font-weight="600"
         fill="#10B981"
         text-anchor="end">
-        58.5%
+        57.4%
     </text>
     
     <circle
@@ -603,7 +603,7 @@
         font-weight="600"
         fill="#10B981"
         text-anchor="end">
-        21.3%
+        26.7%
     </text>
     
     <circle
@@ -631,7 +631,7 @@
         font-weight="600"
         fill="#10B981"
         text-anchor="end">
-        10.6%
+        8.3%
     </text>
     
     <circle
@@ -659,7 +659,7 @@
         font-weight="600"
         fill="#10B981"
         text-anchor="end">
-        6.4%
+        5.1%
     </text>
     
     <circle
@@ -687,7 +687,7 @@
         font-weight="600"
         fill="#10B981"
         text-anchor="end">
-        3.0%
+        2.4%
     </text>
     
     <rect
@@ -1287,19 +1287,19 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.08"/>
-    
-    <rect
-        x="191"
-        y="685"
-        width="11"
-        height="11"
-        rx="2"
-        fill="#10B981"
         opacity="0.25"/>
     
     <rect
         x="191"
+        y="685"
+        width="11"
+        height="11"
+        rx="2"
+        fill="#10B981"
+        opacity="0.08"/>
+    
+    <rect
+        x="191"
         y="699"
         width="11"
         height="11"
@@ -1877,15 +1877,6 @@
     <rect
         x="317"
         y="713"
-        width="11"
-        height="11"
-        rx="2"
-        fill="#10B981"
-        opacity="0.08"/>
-    
-    <rect
-        x="317"
-        y="727"
         width="11"
         height="11"
         rx="2"
@@ -1894,7 +1885,7 @@
     
     <rect
         x="317"
-        y="741"
+        y="727"
         width="11"
         height="11"
         rx="2"
@@ -1903,6 +1894,15 @@
     
     <rect
         x="317"
+        y="741"
+        width="11"
+        height="11"
+        rx="2"
+        fill="#10B981"
+        opacity="0.08"/>
+    
+    <rect
+        x="317"
         y="755"
         width="11"
         height="11"
@@ -2808,7 +2808,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.08"/>
+        opacity="0.45"/>
     
     <rect
         x="527"
@@ -2817,7 +2817,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.45"/>
+        opacity="0.08"/>
     
     <rect
         x="527"
@@ -2907,7 +2907,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.08"/>
+        opacity="0.25"/>
     
     <rect
         x="541"
@@ -2925,7 +2925,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.25"/>
+        opacity="0.45"/>
     
     <rect
         x="555"
@@ -2934,7 +2934,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.45"/>
+        opacity="0.25"/>
     
     <rect
         x="555"
@@ -2943,7 +2943,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.25"/>
+        opacity="0.08"/>
     
     <rect
         x="555"
@@ -2952,7 +2952,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.08"/>
+        opacity="0.25"/>
     
     <rect
         x="555"
@@ -2970,7 +2970,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.25"/>
+        opacity="0.08"/>
     
     <rect
         x="555"
@@ -2979,7 +2979,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.08"/>
+        opacity="0.45"/>
     
     <rect
         x="555"
@@ -2988,7 +2988,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.45"/>
+        opacity="0.25"/>
     
     <rect
         x="569"
@@ -2997,7 +2997,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.25"/>
+        opacity="1"/>
     
     <rect
         x="569"
@@ -3024,7 +3024,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="1"/>
+        opacity="0.45"/>
     
     <rect
         x="569"
@@ -3042,7 +3042,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.45"/>
+        opacity="0.08"/>
     
     <rect
         x="569"
@@ -3051,7 +3051,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.08"/>
+        opacity="0.25"/>
     
     <rect
         x="583"
@@ -3060,7 +3060,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.25"/>
+        opacity="0.08"/>
     
     <rect
         x="583"
@@ -3078,7 +3078,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.08"/>
+        opacity="0.25"/>
     
     <rect
         x="583"
@@ -3096,7 +3096,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.25"/>
+        opacity="0.08"/>
     
     <rect
         x="583"
@@ -3123,7 +3123,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.08"/>
+        opacity="0.25"/>
     
     <rect
         x="597"
@@ -3132,7 +3132,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.25"/>
+        opacity="0.08"/>
     
     <rect
         x="597"
@@ -3168,7 +3168,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.08"/>
+        opacity="0.25"/>
     
     <rect
         x="597"
@@ -3177,7 +3177,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.25"/>
+        opacity="0.08"/>
     
     <rect
         x="611"
@@ -3200,15 +3200,6 @@
     <rect
         x="611"
         y="713"
-        width="11"
-        height="11"
-        rx="2"
-        fill="#10B981"
-        opacity="0.08"/>
-    
-    <rect
-        x="611"
-        y="727"
         width="11"
         height="11"
         rx="2"
@@ -3217,7 +3208,7 @@
     
     <rect
         x="611"
-        y="741"
+        y="727"
         width="11"
         height="11"
         rx="2"
@@ -3226,7 +3217,7 @@
     
     <rect
         x="611"
-        y="755"
+        y="741"
         width="11"
         height="11"
         rx="2"
@@ -3235,6 +3226,15 @@
     
     <rect
         x="611"
+        y="755"
+        width="11"
+        height="11"
+        rx="2"
+        fill="#10B981"
+        opacity="0.25"/>
+    
+    <rect
+        x="611"
         y="769"
         width="11"
         height="11"
@@ -3249,7 +3249,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.25"/>
+        opacity="0.08"/>
     
     <rect
         x="625"
@@ -3416,15 +3416,6 @@
     <rect
         x="653"
         y="755"
-        width="11"
-        height="11"
-        rx="2"
-        fill="#10B981"
-        opacity="0.08"/>
-    
-    <rect
-        x="653"
-        y="769"
         width="11"
         height="11"
         rx="2"
@@ -3432,6 +3423,15 @@
         opacity="0.25"/>
     
     <rect
+        x="653"
+        y="769"
+        width="11"
+        height="11"
+        rx="2"
+        fill="#10B981"
+        opacity="0.08"/>
+    
+    <rect
         x="667"
         y="685"
         width="11"
@@ -3614,15 +3614,6 @@
     <rect
         x="695"
         y="769"
-        width="11"
-        height="11"
-        rx="2"
-        fill="#10B981"
-        opacity="0.08"/>
-    
-    <rect
-        x="709"
-        y="685"
         width="11"
         height="11"
         rx="2"
@@ -3631,6 +3622,15 @@
     
     <rect
         x="709"
+        y="685"
+        width="11"
+        height="11"
+        rx="2"
+        fill="#10B981"
+        opacity="0.08"/>
+    
+    <rect
+        x="709"
         y="699"
         width="11"
         height="11"
@@ -3987,7 +3987,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.08"/>
+        opacity="0.25"/>
     
     <rect
         x="779"
@@ -3996,7 +3996,7 @@
         height="11"
         rx="2"
         fill="#10B981"
-        opacity="0.08"/>
+        opacity="0.45"/>
     
     <text
         x="550.0"
